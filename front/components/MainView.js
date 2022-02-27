@@ -7,7 +7,7 @@ const MainView = () => {
     <Container>
       <Category
         title="Roadster"
-        description="Order Online fro Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         img="Roadster1.jpg"
         img2="Roadster3.jpg"
         price="200,000"
@@ -17,7 +17,7 @@ const MainView = () => {
       <Category
         // title="rodster"
         title="Cybertruck"
-        description="Order Online fro Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         img="cybertruck.jpg"
         img2="cybertruck3.jpg"
         price="450,000"
@@ -26,7 +26,7 @@ const MainView = () => {
       />
       <Category
         title="Model S"
-        description="Order Online fro Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         img="models.jpg"
         img2="models2.jpg"
         price="140,000"
@@ -35,7 +35,7 @@ const MainView = () => {
       />
       <Category
         title="Model 3"
-        description="Order Online fro Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         img="model-3.jpg"
         img2="model3-2.jpg"
         price="180,000"
@@ -44,7 +44,7 @@ const MainView = () => {
       />
       <Category
         title="Model X"
-        description="Order Online fro Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         img="modelx.jpg"
         img2="modelX2.jpg"
         price="23,000"
@@ -53,7 +53,7 @@ const MainView = () => {
       />
       <Category
         title="Model Y"
-        description="Order Online fro Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         img="modely3.jpg"
         img2="ModelY7.jpg"
         price="13,000"
