@@ -8,7 +8,7 @@ const morgan = require("morgan");
 const path = require("path");
 const hpp = require("hpp");
 const helmet = require("helmet");
-
+const postRouter = require("./routes/post");
 const userRouter = require("./routes/user");
 const db = require("./models");
 const passportConfig = require("./passport");
@@ -65,6 +65,7 @@ app.get("/", (req, res) => {
   res.send("express");
 });
 
+app.use("/post", postRouter);
 app.use("/user", userRouter);
 
 app.listen(3065, () => {
