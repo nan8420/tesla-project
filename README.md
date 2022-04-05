@@ -22,7 +22,7 @@
 
 </br>
 
-주소 적기
+https://youtu.be/hrHiZ-qtLBk
 
 </br>
 
