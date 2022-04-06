@@ -1,5 +1,7 @@
 # 📦 Tesla-Clone
 
+# ![Tesla-Clone](./front/uploads/tesla-1.png)
+
 - 전기자동차 및 자율주행 자동차 [테슬라(Tesla)](https://www.tesla.com/) 홈페이지 클론코딩
 
 ## 🧭 프로젝트 기간
@@ -56,7 +58,6 @@ https://youtu.be/hrHiZ-qtLBk
   - Redux-Toolkit과 Rest-API을 사용하여 프론트에서 문의사항을 백앤드로 전송 하면 MySQL DB에 문의 사항 저장
   - 문의내역 페이지에서는 **getServerSideProps**를 사용한 SSR가 실행되어 문의 내역을 불러옴
   - **day.js**를 라이브러리를 사용하여 문의내역 시간 보기
-  - </br>
 
 </br>
 
